@@ -24,7 +24,8 @@ This repository contains the **Healthcare Provider Dashboard**, designed to prov
 
 ## Demo
 ### **Screenshots**
-![Dashboard Preview](![Screenshot 2024-12-09 195705](https://github.com/user-attachments/assets/90757230-c72b-4783-97d1-79edb6daa320))
+![Screenshot 2024-12-09 195705](https://github.com/user-attachments/assets/90757230-c72b-4783-97d1-79edb6daa320)
+![Screenshot 2024-12-09 195720](https://github.com/user-attachments/assets/16498cca-dfa5-4fac-82c5-a974ab2ea949)
 
 
 ---
@@ -40,13 +41,3 @@ This repository contains the **Healthcare Provider Dashboard**, designed to prov
 3. Interact with the dashboard:
    - Use filters for city, state, or service type.
    - Toggle between light and dark modes using the moon/sun button.
-
----
-
-## Repository Structure
-```plaintext
-├── data/                  # (Optional) Sample data (if applicable)
-├── screenshots/           # Dashboard screenshots
-├── Healthcare Analytics.pbix  # Power BI dashboard file
-├── README.md              # Project documentation
-└── LICENSE                # Licensing information
