@@ -24,7 +24,7 @@ This repository contains the **Healthcare Provider Dashboard**, designed to prov
 
 ## Demo
 ### **Screenshots**
-![Dashboard Preview](path/to/screenshot.png)
+![Dashboard Preview](![Screenshot 2024-12-09 195705](https://github.com/user-attachments/assets/90757230-c72b-4783-97d1-79edb6daa320))
 
 
 ---
